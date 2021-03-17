@@ -1,0 +1,4 @@
+/home/alum/dev/homer/build/CMakeFiles/rebuild_cache.dir
+/home/alum/dev/homer/build/CMakeFiles/edit_cache.dir
+/home/alum/dev/homer/build/CMakeFiles/homer.dir
+/home/alum/dev/homer/build/CMakeFiles/simp.dir

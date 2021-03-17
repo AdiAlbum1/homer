@@ -1,0 +1,2 @@
+/usr/bin/ar qc libhomer.a  CMakeFiles/homer.dir/send_home.cpp.o
+/usr/bin/ranlib libhomer.a

@@ -1,0 +1,1 @@
+/usr/bin/c++    -rdynamic CMakeFiles/simp.dir/example/send_home_test.cpp.o  -o simp -Wl,-rpath,/usr/local/lib libhomer.a /usr/local/lib/libzmq.so 

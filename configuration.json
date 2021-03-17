@@ -1,0 +1,4 @@
+{
+    "home_address": "ws://172.17.1.70:3001",
+    "ipc_filename": "ipc:///tmp/cpp2py.ipc"
+}
